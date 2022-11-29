@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'string-interpolation-object';
+  heading: string = "user post";
+  num: number = 1;
+
 }
+
